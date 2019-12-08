@@ -1,4 +1,4 @@
-package org.openjdk.jmh.samples.custom;
+package org.openjdk.jmh.custom;
 
 import org.openjdk.jmh.annotations.*;
 import org.openjdk.jmh.infra.Blackhole;
