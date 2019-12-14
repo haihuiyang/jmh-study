@@ -13,7 +13,6 @@ out/
 target/
 
 # gradle
-out/
 build/
 .gradle/
 gradle/
