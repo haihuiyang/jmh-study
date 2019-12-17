@@ -51,7 +51,6 @@ public class StringBuilderVsStringBufferBenchmark {
         for (int i = 0; i < iterations; i++) {
             sb.append(state.preparedStrList.get(i));
         }
-        String str = new String("hello") + " world";
         return sb.toString();
     }
 
